@@ -11,7 +11,7 @@ This application was developed using [ExpressJS](http://expressjs.com/). MongoDB
 * Install Docker. (Docker For Windows 10 or Docker Toolbox for versions less than 10)
 * Start up your terminal (or Command Prompt on Windows OS).
 * Ensure that you have 'node' installed on your PC.
-* Clone the repository by entering the command 'git clone https://github.com/kcemenike/userManagerAndela' in the terminal.
+* Clone the repository by entering the command 'git clone https://github.com/benjamintaiwo/userManagerApp' in the terminal.
 * Run 'docker-compose up'
 
 ### Testing
@@ -22,4 +22,4 @@ The command: `npm test` makes this possible. It isn't functional right now, but 
 The full user documentation is on the original repo at git clone https://github.com/BolajiOlajide/UserManager
 
 ### Author
-** Kelechi C. EMENIKE
+Benjamin Taiwo Abegunde
